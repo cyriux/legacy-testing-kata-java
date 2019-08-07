@@ -7,10 +7,11 @@ First try to run it.
 
 Then your goal is to make it testable so that you can make changes (FIXME inside) and perhaps refactor it a bit.
 
-This code draws on a C# code kata authored by my distinguished colleague Nicolas M.; Thanks Nicolas for the good ideas in the kata!
+This code draws on a C# code kata authored by my distinguished colleague Nicolas Morbieu ; Thanks Nicolas for this ultra realistic kata!
+
+*Don't read further if you don't want to be spoiled.*
 
 --
-
 If you hesitate where to start, here are some of the tricky bits that make it hard to test:
 
 Lack of dependency injection:
